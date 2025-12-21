@@ -1,9 +1,5 @@
 # 🐶 Evaluation of Human-Oriented Canine Communication Using Eye Tracking
 
-![Python](https://img.shields.org/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
-![Data Science](https://img.shields.org/badge/Data-Analysis-green?style=for-the-badge)
-![Status](https://img.shields.org/badge/Status-Phase_B-orange?style=for-the-badge)
-
 ## 👁️ Project Overview
 
 This research project explores how humans interpret emotional cues from dogs, specifically focusing on the differences between **Brachycephalic** (flat-faced) and **Normocephalic** (long-snouted) breeds. By utilizing **Eye-Tracking Technology (Tobii Pro Spark)**, we record and analyze human gaze patterns to understand which facial or body areas (AOIs) are most critical for emotion recognition.
